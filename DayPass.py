@@ -1,4 +1,3 @@
-#teste commit
 import datetime
 import pyperclip
 

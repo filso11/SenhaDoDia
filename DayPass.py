@@ -14,3 +14,4 @@ def todayPass(day, mounth, year):
 
 
 pyperclip.copy(todayPass(day, mounth, year))
+# teste

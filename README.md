@@ -8,7 +8,7 @@ Criei uma alias no meu S.O para que toda vez que eu digitar o comando "pass" ele
 
 ## Como executar no Linux
 
-1.  Abra o terminal e acesse a pasta onde o arquivo `SenhaDoDia.py` está localizado.
+1.  Abra o terminal e acesse a pasta onde o arquivo `DayPass.py` está localizado.
 2.  Certifique-se de que o Python está instalado digitando o seguinte comando: **python3 SenhaDoDia.py**
 3.  A senha do dia será exibida no terminal e também será copiada para a área de transferência.
 
